@@ -1,5 +1,4 @@
 # python_workout
-pythonworkout
 
 ex01 猜數字遊戲
 
