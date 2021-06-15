@@ -47,3 +47,5 @@ ex22 讀取csv檔
 ex23 讀取json檔
 
 ex24 批次檔案讀取
+
+ex25 XML產生器
